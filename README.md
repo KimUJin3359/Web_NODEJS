@@ -166,7 +166,7 @@
   - write : 클라이언트로 보낼 데이터
   - end : 응답을 종료하는 메소드
   - listen : 서버를 실행할 떄 사용하는 메소드
-- [실습6](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module006.server/server.js), [html](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module006.server/index.html)
+- [실습6](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module006.server/server.js)
 - [실습7(라우팅)](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module007.server/index.js)
 ### express
 - 특징
