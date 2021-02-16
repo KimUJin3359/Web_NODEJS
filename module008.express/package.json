@@ -1,0 +1,14 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "익스 프레스를 활용한 서버 구축",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "김 우진",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
