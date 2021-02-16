@@ -180,7 +180,7 @@
   ![파일](https://user-images.githubusercontent.com/50474972/108080160-e8f82c00-70b2-11eb-89a4-e705768133c6.JPG)
 - 웹서버 구축
   - [실습8](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module008.express/index.js)
-- routing
+- url routing
   - [실습9](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module009.routing/index.js)
   - [실습10](https://github.com/KimUJin3359/Web_NODE_JS/blob/master/module010.routing/index.js)
 - middleware  
